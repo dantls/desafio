@@ -1,0 +1,12 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/exercise.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
